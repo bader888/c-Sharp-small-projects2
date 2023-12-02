@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+C:\Users\lenovo\source\repos\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+C:\Users\lenovo\source\repos\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+C:\Users\lenovo\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+C:\Users\lenovo\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.PuzzleGame.resources
+C:\Users\lenovo\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+C:\Users\lenovo\source\repos\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
